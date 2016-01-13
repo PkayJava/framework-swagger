@@ -30,7 +30,7 @@
         <flywaydb.version>3.2.1</flywaydb.version>
         <build-helper-maven-plugin-version>1.9.1</build-helper-maven-plugin-version>
         <slf4j.version>1.7.12</slf4j.version>
-        <spring.version>4.2.2.RELEASE</spring.version>
+        <spring.version>4.2.4.RELEASE</spring.version>
         <spring-security.version>4.0.3.RELEASE</spring-security.version>
         <jackson.version>2.6.3</jackson.version>
         <swagger.version>1.5.4</swagger.version>
